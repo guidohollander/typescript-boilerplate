@@ -1,0 +1,110 @@
+{
+  "kimbleProjects": [
+      {
+          "projectName": "BPC Solutions (Netherlands) B.V.-5576/1-008 - Anglo MTS Corrective Maintenance (Incidents) H2 2023 (5576/1-008)",
+          "code": "5576/1-008",
+          "jiraMappings": [
+              {
+                  "type": "jiraIssue",
+                  "value": "ISSUE-1111"
+              }
+          ]
+      },
+      {
+          "projectName": "BPC Solutions (Netherlands) B.V.-5576/1-011 - IRD Anguilla MTS Configurations H2 2023 (5576/1-011)",
+          "code": "5576/1-011",
+          "jiraMappings": [
+              {
+                  "type": "jiraPrefix",
+                  "value": "IRD"
+              }
+          ]
+      },
+      {
+          "projectName": "BPC Solutions (Netherlands) B.V.-5576/2-001 - MBS Solution Maintenance (incidents) 2023 (5576/2-001)",
+          "code": "5576/2-001",
+          "jiraMappings": [
+              {
+                "type": "jiraIssue",
+                "value": "ISSUE-22222"
+              }
+          ]
+      },
+      {
+          "projectName": "BPC Solutions (Netherlands) B.V.-5577/1-001 - Plug-in Library (5577/1-001)",
+          "code": "5577/1-001",
+          "jiraMappings": [
+              {
+                "type": "jiraIssue",
+                "value": "ISSUE-3333"
+              }
+          ]
+      },
+      {
+          "projectName": "Government of Grenada-5552/3-006 - System (Customization) Configuration (incl CRP's) (5552/3-006)",
+          "code": "5552/3-006",
+          "jiraMappings": [
+              {
+                  "type": "jiraPrefix",
+                  "value": "PREFIX"
+              }
+          ]
+      },
+      {
+          "projectName": "Government of Grenada-5552/3-009 - Data Conversion & Migration (5552/3-009)",
+          "code": "5552/3-009",
+          "jiraMappings": [
+              {
+                  "type": "jiraPrefix",
+                  "value": "CONVA"
+              },
+              {
+                  "type": "jiraIssue",
+                  "value": "SDTSS-4304"
+              }
+          ]
+      },
+      {
+          "projectName": "Government of St. Kitts & Nevis-5511/3-005 - Data Conversion & Migration (5511/3-005)",
+          "code": "5511/3-005",
+          "jiraMappings": [
+              {
+                  "type": "jiraIssue",
+                  "value": "SDTSS-4305"
+              }
+          ]
+      },
+      {
+          "projectName": "Nobilo Tres B.V.-5528/1-002 - Anglo MTS Backoffice Portal (5528/1-002)",
+          "code": "5528/1-002",
+          "jiraMappings": [
+              {
+                  "type": "jiraPrefix",
+                  "value": "SDTSS"
+              },
+              {
+                "type": "jiraPrefix",
+                "value": "MTSSKN"
+            },              
+              {
+                  "type": "jiraPrefix",
+                  "value": "MTSGD"
+              }
+          ]
+      },
+      {
+          "projectName": "Social Security Board Anguilla-5227/2-001 - Data Conversion and Migration SSB (5227/2-001)",
+          "code": "5227/2-001",
+          "jiraMappings": [
+              {
+                  "type": "jiraIssue",
+                  "value": "MBSAI-1630"
+              },
+              {
+                  "type": "jiraIssue",
+                  "value": "MTSGD-198"
+              }
+          ]
+      }
+  ]
+}
